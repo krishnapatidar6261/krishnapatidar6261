@@ -1,9 +1,9 @@
 <h1 align="center">Hello, I'm Krishna</h1>
-<h3 align="center">A passionate Python Django Developer</h3>
+<h3 align="center">A passionate Python </h3>
 
 - 👨‍💻 My projects are available at [https://github.com/krishnapatidar6261/Ecommerce](https://github.com/krishnapatidar6261/Ecommerce)
 
-- 💬 Ask me about **Python, Django, Mysql, HTML, CSS, Git, GitHub**
+- 💬 Ask me about **Python, Django, Elastic Search, Redis, Celery, Websocket (Django Channels),  Mysql, HTML, CSS, Git, GitHub**
 
 - 📫 How to reach me **krishnapatidar6261@gmail.com**
 
